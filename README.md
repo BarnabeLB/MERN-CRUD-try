@@ -7,7 +7,7 @@ App is tryable here :
 <br>
 credential are hardcoded for the moment so you can give it a go log in as  :
 <br>
-`login : plop`
+`login : plop`<br>
 `password : lol`
 <br>
 have fun !
