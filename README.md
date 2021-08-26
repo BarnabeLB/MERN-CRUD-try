@@ -1,5 +1,5 @@
 # daily-dose-of-code
-MERN CRUD + heroku structure
+Tryed a little "MongoDB, Express React, Node CRUD app" hosted on Heroku for another project. Followed AlexMercedCoder.com tutorial.
 <br>
 App is tryable here : 
 <br>
